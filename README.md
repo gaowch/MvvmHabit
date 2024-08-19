@@ -14,7 +14,7 @@
 
 [3.x：Support版（最后版本：3.1.6）](https://github.com/goldze/MVVMHabit/tree/20210716_v3.1.6_android) 
 
-[4.x：AndroidX版（最后版本：4.0.0）](https://github.com/goldze/MVVMHabit) 建议使用当前版本
+[4.x：AndroidX版（最后版本：5.1.1）](https://github.com/goldze/MVVMHabit) 建议使用当前版本
 
 > **原文地址：** [https://github.com/goldze/MVVMHabit](https://github.com/goldze/MVVMHabit)
 
